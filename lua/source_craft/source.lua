@@ -8,7 +8,7 @@
 local source = {
 	---@type SourceCraftSourceOpts
 	opts = {
-		enabled = true,
+		enabled = false,
 		base_url = "https://proxy.src.yandexcloud.net/proxy",
 		token_type = "Bearer",
 		token = "",
